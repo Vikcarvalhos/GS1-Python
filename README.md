@@ -20,6 +20,10 @@ O projeto foi desenvolvido utilizando o PyCharm como IDE.
 
 IDE: PyCharm
 
+## Video explicativo
+
+[![GS: Python](https://i9.ytimg.com/vi_webp/NzryNBUc3Cg/mq3.webp?sqp=CMzWqasG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLCy4hIxAXKCuqS3FlKZeZgwMXMxbQ)]([https://youtu.be/HoGcQbJOu8g](https://youtu.be/NzryNBUc3Cg) "GS - Python 1ESPS")
+
 ### Instruções de Uso
 
 Para utilizar o sistema, siga o passo a passo abaixo:
